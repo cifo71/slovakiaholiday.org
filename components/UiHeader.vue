@@ -40,21 +40,6 @@
     @include media(md) {
       display: flex;
     }
-
-    a {
-      padding:   12px;
-      color:     $accent;
-      font-size: 18px;
-      display:   block;
-
-      &:not(:last-of-type) {
-        margin-right: 60px;
-      }
-      
-      &:hover {
-        color: $primary;
-      }
-    }
   }
 }
 
