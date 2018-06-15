@@ -10,9 +10,9 @@
         Spoznajte krásy Slovenska s nami!
       </h2>
       <div class="lang">
-        <img src="@/assets/img/slovensko.jpg" width="35px" height="35px" /> 
-        <img src="@/assets/img/nemecko.jpg" width="35px" height="35px" /> 
-        <img src="@/assets/img/anglicko.jpg" width="35px" height="35px"/> 
+        <img src="@/assets/img/slovensko.jpg" width="35px" height="25px" /> 
+        <img src="@/assets/img/nemecko.jpg" width="35px" height="25px" /> 
+        <img src="@/assets/img/anglicko.jpg" width="35px" height="25px"/> 
       </div>
       <div class="links">
         <a
@@ -42,7 +42,7 @@ export default {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url("/assets/img/background-index.jpg");
+  background-image: url("/assets/img/image4.png");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
